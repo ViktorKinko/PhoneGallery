@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/dark_blue</color>
+    <color name="colorAccent">@color/pink</color>
+
+    <color name="purple">#AA2AFF</color>
+    <color name="blue">#3F51B5</color>
+    <color name="dark_blue">#303F9F</color>
+    <color name="pink">#FF4081</color>
+    <color name="orange">#FFAA2A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="pink_transparent" >#11AA2AFF</color>
+</resources>
